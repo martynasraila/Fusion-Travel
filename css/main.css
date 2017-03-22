@@ -1,0 +1,118 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	color: white;	
+}
+h1 {
+	font-size: 3em;
+}
+p {
+	font-size: 0.85em;
+}
+.white, .white a {
+  color: #fff;
+}
+.menu {
+	font-size: 0.7em;
+	height: 70px;
+	width: 850px;
+	margin: auto;
+	text-align: left;
+	border-bottom: 2px solid #aaaaaa;
+/*	border: 2px solid black;*/
+
+}
+.menu a {
+	color: #e2e2e2;
+	text-decoration: none;
+/*	border: 2px solid black;*/
+	margin: 8px;
+
+}
+.hotline {
+	color: #fff;
+	width: 200px;
+
+}
+.container {
+	margin: auto;
+	margin-top: 50px;
+	height: 550px;
+	width: 1200px;
+	background-color: #b5b5b5;
+	border-width: 50px;
+	border-color: #fff;
+}
+#fusion_travel {
+	padding-top: 100px;
+}
+.item {
+	height: 50px;
+	width: 500px;
+	margin: 1px;
+	color: white;
+	text-align: center;
+	line-height: 50px;
+}
+.item.btn
+{
+	background-color: #ffa50a;
+	width: 150px;
+	height: 35px;
+	vertical-align: middle;
+	border: 0px solid ;
+    border-radius: 25px;
+	line-height: 0px;
+	font-size: 0.7em;
+	font-weight: bold;
+}
+#videoPic {
+	margin-top: 140px;
+	margin-left: 100px;
+	height: 60px;
+	width: 140px;
+	display: flex;
+	flex-flow: row wrap;
+	flex-direction: column;
+
+}
+#videoGlyph {
+	height: 60px;
+	width: 30px;
+}
+#watch {
+	padding-top: 10px;
+	font-size: 0.6em;
+	color: #e2e2e2;
+}
+#introVideo {
+	font-size: 0.8em;
+	font-weight: bold;
+}
+
+/*Flexinimas*/
+.menu 
+{
+	display: flex;
+	display: -webkit-flex;
+	justify-content: flex-start;
+	-webkit-justify-content: flex-start;
+	align-items: center;
+
+}
+.hotline  {
+	justify-content: flex-end;
+	text-align: right;
+	margin-left: auto;
+
+	}
+#fusion_travel {
+	display: flex;
+	display: -webkit-flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	-webkit-justify-content: center;
+}
+#homeButton {
+	margin-left: 0;
+}
