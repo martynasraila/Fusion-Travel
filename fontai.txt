@@ -1,0 +1,10 @@
+copyrightui - Roboto Regular
+Fusion Travel H1 - Roboto Bold
+Fusion travel h2 - Roboto medium
+Meniu - Roboto Regular
+Button - Roboto Bold
+Watch video - Roboto Regular, Roboto Bold
+Latest news, h2 - roboto regular
+Blog content- roboto regular
+Footer About us -  Roboto medium
+Footeris paragraph - Regular
